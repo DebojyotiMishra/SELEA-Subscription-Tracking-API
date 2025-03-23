@@ -4,4 +4,11 @@ node_modules/
 coverage/
 dist/
 .idea/
-.vscode/ 
+.vscode/
+.env.production.local
+.env.development.local
+.env.test.local
+.env.production
+.env.development
+.env.test
+config/.env.js
