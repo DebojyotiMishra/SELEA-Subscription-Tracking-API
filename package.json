@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "lint-staged": {
     "*.js": [
       "eslint --fix"
