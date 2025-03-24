@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/DebojyotiMishra/SELEA-Subscription-Tracking-API#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongodb": "^6.15.0",
